@@ -1,4 +1,4 @@
-package src.assignments;
+package src.assignments;//package src.assignments;
 
 public class MainAnimal {
 
